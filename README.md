@@ -1,6 +1,6 @@
 # Associate Rule Learning
 
-Association rules analysis is a technique to uncover how items are associated to each other. 
+Association rule Learning, an unsupervised algorithm that provides techniques to uncover how items are associated to each other. 
 It includes two popular algorithms:
 1. Apriori ; 
 2. Eclat
