@@ -1,4 +1,4 @@
-# Associate-Rule-Learning
+# Associate Rule Learning
 
 Association rules analysis is a technique to uncover how items are associated to each other. 
 It includes two popular algorithms:
